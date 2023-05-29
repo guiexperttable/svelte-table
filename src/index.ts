@@ -1,2 +1,2 @@
-export { default as SvelteTable } from "./SvelteTable.svelte";
+export { default as GuiexpertTable } from "./GuiexpertTable.svelte";
 export { ComponentRendererWrapper } from "./ComponentRendererWrapper";

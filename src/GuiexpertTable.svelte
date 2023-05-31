@@ -50,7 +50,7 @@
 
 <div
   bind:this={root}
-  class="container-div"
+  class="ge-table"
   style="width: 100%; height: 100%; background-color: transparent; padding: 0; margin: 0">
 </div>
 
